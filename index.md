@@ -6,15 +6,31 @@ title: Manualia · Política de privacidad y seguridad
 
 Consulta tus manuales PDF y Word escribiendo o hablando, y ve la página exacta de la respuesta. Todo en tu teléfono, sin internet.
 
+> **Aviso: Manualia no es una aplicación gubernamental.** Es una app independiente y privada. No representa a ningún gobierno, ministerio ni entidad pública, y no está afiliada ni respaldada por ninguno. No incluye leyes, normas ni documentos oficiales: solo lee los documentos que tú agregas.
+
+- [Aviso: aplicación no oficial](#aviso-aplicación-no-oficial)
 - [Política de privacidad](#política-de-privacidad)
 - [Política de seguridad](#política-de-seguridad)
 - [Contacto](#contacto)
 
 ---
 
+# Aviso: aplicación no oficial
+
+**Última actualización:** 15 de octubre de 2026
+
+- **Manualia** es una aplicación independiente, creada y mantenida por un desarrollador privado.
+- **No representa** a ningún gobierno, ministerio, municipio ni entidad pública de ningún país, y **no está afiliada, patrocinada ni respaldada** por ninguno de ellos.
+- La app **no ofrece información del gobierno** y **no incluye** leyes, normas, trámites ni documentos oficiales. Solo lee y busca en los documentos PDF o Word que **tú mismo agregas** desde tu teléfono.
+- El manual de ejemplo que trae la app es un manual de caja de una tienda ficticia, creado solo para mostrar cómo funciona.
+- Las respuestas salen del texto de tu documento. Manualia no verifica si ese documento es oficial, vigente o correcto.
+- Si necesitas información oficial, consulta directamente el sitio web del gobierno o de la entidad pública correspondiente.
+
+---
+
 # Política de privacidad
 
-**Última actualización:** 14 de octubre de 2026
+**Última actualización:** 15 de octubre de 2026
 
 **En resumen**
 
@@ -22,6 +38,7 @@ Consulta tus manuales PDF y Word escribiendo o hablando, y ve la página exacta 
 - Tus documentos y preguntas se procesan en tu teléfono y nunca se envían a nuestros servidores (no tenemos servidores).
 - No hay publicidad ni herramientas de rastreo.
 - Los pagos de Manualia Pro los procesa Google Play. Nosotros no vemos datos de tarjeta.
+- Manualia es una app independiente: no representa a ningún gobierno ni entidad pública.
 
 Esta política explica qué información usa la aplicación **Manualia** para Android («la app») y cómo se protege.
 
@@ -50,6 +67,8 @@ La lectura del texto, incluido el reconocimiento de texto en documentos escanead
 | Dictado por voz del sistema | Escribir tu pregunta hablando. | Lo hace el servicio de voz de tu teléfono (por ejemplo, Google), que puede usar internet según su propia configuración y política. |
 | Lectura en voz alta del sistema | Escuchar las respuestas. | Lo hace el motor de voz instalado en tu teléfono. |
 
+La app no se conecta con sistemas, bases de datos ni servicios de ningún gobierno o entidad pública.
+
 ## 4. Permisos
 
 - **Micrófono:** solo mientras dictas una pregunta. Puedes negarlo y seguir escribiendo.
@@ -76,7 +95,7 @@ Si esta política cambia, publicaremos la nueva versión en esta página con su 
 
 # Política de seguridad
 
-**Última actualización:** 14 de octubre de 2026
+**Última actualización:** 15 de octubre de 2026
 
 La forma más segura de proteger tus documentos es no enviarlos a ninguna parte. Manualia trabaja dentro de tu teléfono y no tiene servidores que puedan ser atacados.
 
@@ -100,6 +119,7 @@ La forma más segura de proteger tus documentos es no enviarlos a ninguna parte.
 
 - Las únicas conexiones de la app son las de Google Play (compras) y las métricas técnicas de Google ML Kit, que viajan cifradas con HTTPS.
 - Las búsquedas en tus documentos no usan internet.
+- La app no se conecta con ningún sitio ni servicio de gobierno.
 
 ## 5. Permisos mínimos
 
@@ -108,7 +128,7 @@ La forma más segura de proteger tus documentos es no enviarlos a ninguna parte.
 
 ## 6. Distribución y actualizaciones
 
-- Descarga Manualia solo desde Google Play. Las versiones oficiales están firmadas por el desarrollador y Google Play verifica esa firma en cada actualización.
+- Descarga Manualia solo desde Google Play. Las versiones oficiales de la app están firmadas por su desarrollador y Google Play verifica esa firma en cada actualización.
 - Mantén la app y Android actualizados para recibir las correcciones de seguridad.
 
 ## 7. Buenas prácticas para ti
@@ -125,6 +145,8 @@ Si encuentras una vulnerabilidad, escríbenos al correo de contacto con una desc
 
 # Contacto
 
+Manualia es desarrollada por un desarrollador independiente. No es un canal de atención de ningún gobierno ni entidad pública.
+
 Correo: **alfredjose310@gmail.com**
 
-© 2026 Manualia
+© 2026 Manualia · Aplicación independiente, no gubernamental.
